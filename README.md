@@ -19,3 +19,10 @@ KiCad's 3d render of it :
 PCB on Fusion 360 : 
 <img width="1010" height="740" alt="image" src="https://github.com/user-attachments/assets/1125b3e3-4213-4384-b7ee-aad0214dab4f" />
 
+Final model on Fusion 360 : 
+
+<img width="766" height="554" alt="image" src="https://github.com/user-attachments/assets/11270f3f-51c9-4080-9624-a6f9907d3a6a" />
+<img width="648" height="497" alt="image" src="https://github.com/user-attachments/assets/bef62c16-5ce1-4344-8c28-3d377ca36d95" />
+<img width="732" height="489" alt="image" src="https://github.com/user-attachments/assets/6ae1ed97-515e-4615-a63e-0e69191838cc" />
+<img width="670" height="399" alt="image" src="https://github.com/user-attachments/assets/3ea9902b-b720-43f2-9cb1-c99c9c614ac8" />
+<img width="822" height="491" alt="image" src="https://github.com/user-attachments/assets/6f46de50-eb7d-4927-90cd-ffdd8f63326c" />
