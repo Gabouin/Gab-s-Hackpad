@@ -43,7 +43,14 @@ jobs:
       # 4. Copie ton keyboard dans QMK
       - name: Copy keyboard into QMK
         run: |
-          cp -r FIRMWARE/gabs_hackpad qmk_firmware/keyboards/gabs_hackpad
+          mkdir -p qmk_firmware/keyboards/gabs_hackpad/keymaps/default
+          cp FIRMWARE/config.h        qmk_firmware/keyboards/gabs_hackpad/
+          cp FIRMWARE/rules.mk        qmk_firmware/keyboards/gabs_hackpad/
+          cp FIRMWARE/info.json       qmk_firmware/keyboards/gabs_hackpad/
+          cp FIRMWARE/gabs_hackpad.h  qmk_firmware/keyboards/gabs_hackpad/
+          cp FIRMWARE/oled_display.c  qmk_firmware/keyboards/gabs_hackpad/
+          cp FIRMWARE/oled_display.h  qmk_firmware/keyboards/gabs_hackpad/
+          cp FIRMWARE/keymap.c        qmk_firmware/keyboards/gabs_hackpad/keymaps/default/
 
       # 5. Compile !
       - name: Compile firmware
