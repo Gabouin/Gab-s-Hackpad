@@ -43,4 +43,4 @@ Parts to 3d print :
 Bill Of Material :
 
 <img width="446" height="523" alt="image" src="https://github.com/user-attachments/assets/cdc7a327-9bda-4f5d-bcc1-472f86db100a" />
-
+https://blueprint.hackclub.com/hackpad/parts
