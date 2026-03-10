@@ -8,8 +8,7 @@ last version of my schematic on KiCad :
 PCB on KiCad :
 
 
-<img width="890" height="594" alt="image" src="https://github.com/user-attachments/assets/33a607cf-7c21-41e4-902c-4f02be932e7b" />
-<img width="945" height="629" alt="image" src="https://github.com/user-attachments/assets/f641399f-0407-4979-a064-3da504cde514" />
+<img width="859" height="562" alt="image" src="https://github.com/user-attachments/assets/96c5c61b-8f77-4858-80c7-1b53984697ce" />
 
 
 
@@ -17,20 +16,25 @@ PCB on KiCad :
 
 KiCad's 3d render of it : 
 
-<img width="825" height="664" alt="image" src="https://github.com/user-attachments/assets/44a7077b-bedd-4b9e-8d59-fb14a6cd145b" />
-<img width="834" height="648" alt="image" src="https://github.com/user-attachments/assets/544acbca-b409-47de-9363-018043ebbfdb" />
+<img width="853" height="619" alt="image" src="https://github.com/user-attachments/assets/01d052a7-ac93-450c-bdf7-d4c1306deaec" />
+
+<img width="863" height="667" alt="image" src="https://github.com/user-attachments/assets/530786f0-4966-48e3-8e48-dff8cce1e480" />
+
 
 
 
 PCB on Fusion 360 : 
 
-<img width="858" height="650" alt="image" src="https://github.com/user-attachments/assets/8e17e9e2-3f5e-48b5-84eb-9d23a9cd1fc8" />
+<img width="887" height="581" alt="image" src="https://github.com/user-attachments/assets/d17bce53-ddab-49c8-9826-5e6dada5e210" />
+
 <img width="735" height="595" alt="image" src="https://github.com/user-attachments/assets/7621c40e-54ac-4886-b345-073e7637da84" />
 
 Final model on Fusion 360 : 
 
 <img width="736" height="576" alt="image" src="https://github.com/user-attachments/assets/02a5fc5a-4d7b-4115-a527-dc49e79e7e38" />
-<img width="730" height="484" alt="image" src="https://github.com/user-attachments/assets/48fabda1-b6ad-40c1-b5c5-1d6e316f2273" />
+<img width="366" height="259" alt="image" src="https://github.com/user-attachments/assets/54b42293-e208-449c-9be0-d8ce18af7093" />
+<img width="1102" height="500" alt="image" src="https://github.com/user-attachments/assets/d636f730-8d77-4722-bce8-d23cda525167" />
+
 <img width="1304" height="392" alt="image" src="https://github.com/user-attachments/assets/33010e1f-fcda-43b2-9a56-dec923539871" />
 
 
